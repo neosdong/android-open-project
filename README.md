@@ -490,6 +490,13 @@ Demo地址：https://play.google.com/store/apps/details?id=com.felipecsl.asymmet
 和`ListView`一样带头部和底部的`GridView`，用法和`ListView`一样  
 项目地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter  
 效果图：![Screen Shot](https://raw.githubusercontent.com/liaohuqiu/android-GridViewWithHeaderAndFooter/master/screen-shot.png)  
+
+1. AndroidIndicators  
+实现ViewPager当前页面索引指示器。只显示当前ViewPager的索引，可设定索引切换效果。  	
+项目地址：https://github.com/MoshDev/AndroidIndicators  
+效果图：  
+![](https://raw.githubusercontent.com/MoshDev/AndroidIndicators/master/snapshots/2015-01-12%2019_42_02.gif)
+
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 六、ImageView  
